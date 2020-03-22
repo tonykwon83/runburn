@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/tonykwon83/runburn/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tonykwon83/runburn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+<head>
+<title></title>
+<style>
+body, td, img {margin:0; padding:0;}
+img{display:block; border:0px} 
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (April2) -->
+<table id="Table_01" width="640" height="1607" border="0" cellpadding="0" cellspacing="0">
+	<td>
+			<img src="https://user-images.githubusercontent.com/62431282/77241533-ade94080-6c36-11ea-92d7-e57262b5a47a.jpg" width="100%" height="691" alt="">
+                        <a href="https://map.naver.com/v5/entry/place/36733749?c=14146618.2425717,4511587.9556704,18,0,0,0,dh" target="_blank">
+			<img src="https://user-images.githubusercontent.com/62431282/77241534-afb30400-6c36-11ea-9414-ab6fa36108b8.jpg" width="100%" height="226" alt=""></a>
+                        <a href="https://band.us/@runburn" target="_blank">
+			<img src="https://user-images.githubusercontent.com/62431282/77241535-afb30400-6c36-11ea-80eb-ffbb9b328412.jpg" width="100%" height="108" alt=""></a>
+			<img src="https://user-images.githubusercontent.com/62431282/77241536-b04b9a80-6c36-11ea-932b-aa9d430e4f15.jpg" width="100%" height="582" alt="">		
+	</td>
+</table>
+<!-- End Save for Web Slices -->
+</body>
+</html>
